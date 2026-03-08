@@ -1,0 +1,20 @@
+--- Report Generated: Sun Mar  8 00:25:01 EST 2026 ---
+UPTIME:
+ 00:25:01 up 53 min,  1 user,  load average: 0.87, 0.43, 0.41
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       107Mi        42Mi       931Mi       1.1Gi
+Swap:          3.6Gi       385Mi       3.2Gi
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   11G  8.5G  55% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  4.0M  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   92K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/sathvik-alla/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/sathvik-alla/CDROM
+----------------------------------
